@@ -1,5 +1,3 @@
-ESX = exports["es_extended"]:getSharedObject()
-
 local Blood = false
 
 Citizen.CreateThread(function()
